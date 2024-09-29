@@ -3,3 +3,10 @@ def foo(name):
 
 
 foo("Semzz")
+
+
+def new_foo():
+    print("COMMit")
+
+
+new_foo()
